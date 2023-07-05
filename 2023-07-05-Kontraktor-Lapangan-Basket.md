@@ -2,7 +2,7 @@
 layout: post
 title: Kontraktor Lapangan Basket
 images: /assets/images/3-lapangan-futsal.jpg
-images-alt: Judul
+images-alt: Kontraktor Lapangan Basket
 penulis: Denny Rakhmad Widi Ashari
 photos: /assets/images/3-lapangan-futsal.jpg
 deskripsi: Anda sedang mencari Judul, Adhyasta dapat mewujudkan lapangan tenis yang indah, Segera Hubungi Kami !
