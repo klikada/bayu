@@ -32,16 +32,16 @@ deskripsi: Anda sedang mencari Judul, Adhyasta dapat mewujudkan lapangan tenis y
                             Memiliki kontraktor lapangan basket yang baik sangat penting untuk memastikan hasil akhir yang memuaskan. Berikut adalah beberapa alasan mengapa Anda perlu menggunakan jasa kontraktor lapangan basket profesional:
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            1. **Keahlian dan pengalaman**: Kontraktor lapangan basket yang berpengalaman memiliki pengetahuan mendalam tentang perencanaan, desain, dan konstruksi lapangan basket. Mereka dapat memberikan saran berharga dan solusi terbaik untuk memenuhi kebutuhan Anda.
+                            1. Keahlian dan pengalaman: Kontraktor lapangan basket yang berpengalaman memiliki pengetahuan mendalam tentang perencanaan, desain, dan konstruksi lapangan basket. Mereka dapat memberikan saran berharga dan solusi terbaik untuk memenuhi kebutuhan Anda.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            2. **Standar kualitas**: Kontraktor lapangan basket yang baik akan memastikan bahwa lapangan yang dibangun sesuai dengan standar kualitas yang ditetapkan. Mereka menggunakan bahan yang berkualitas tinggi dan mengikuti prosedur konstruksi yang benar.
+                            2. Standar kualitas: Kontraktor lapangan basket yang baik akan memastikan bahwa lapangan yang dibangun sesuai dengan standar kualitas yang ditetapkan. Mereka menggunakan bahan yang berkualitas tinggi dan mengikuti prosedur konstruksi yang benar.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            3. **Efisiensi waktu**: Dengan menggunakan jasa kontraktor lapangan basket, proyek pembangunan lapangan dapat diselesaikan dalam waktu yang lebih singkat. Kontraktor lapangan basket yang berpengalaman memiliki pengetahuan dan alat yang diperlukan untuk melakukan pekerjaan dengan efisien.
+                            3. Efisiensi waktu: Dengan menggunakan jasa kontraktor lapangan basket, proyek pembangunan lapangan dapat diselesaikan dalam waktu yang lebih singkat. Kontraktor lapangan basket yang berpengalaman memiliki pengetahuan dan alat yang diperlukan untuk melakukan pekerjaan dengan efisien.
                         </p>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            4. **Jaminan kualitas**: Kontraktor lapangan basket yang baik biasanya memberikan jaminan kualitas untuk pekerjaan yang dilakukan. Ini memberikan Anda kepercayaan diri bahwa lapangan yang dibangun akan tahan lama dan memenuhi harapan Anda.
+                            4. Jaminan kualitas: Kontraktor lapangan basket yang baik biasanya memberikan jaminan kualitas untuk pekerjaan yang dilakukan. Ini memberikan Anda kepercayaan diri bahwa lapangan yang dibangun akan tahan lama dan memenuhi harapan Anda.
                         </p>
                     </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
