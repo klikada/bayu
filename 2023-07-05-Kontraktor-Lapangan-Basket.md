@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judul
+title: prakerin
 images: /assets/images/3-lapangan-futsal.jpg
 images-alt: Judul
 penulis: Denny Rakhmad Widi Ashari
